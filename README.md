@@ -11,7 +11,7 @@ A series of case studies from https://8weeksqlchallenge.com/ with my solutions. 
 <!-- CONTENTS -->
 ## Content
 
-*  [Case Study 1](https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_1_Danny's_Diner.ipynb=250x250)
+*  [Case Study 1](https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_1_Danny's_Diner.ipynb=25x25)
  ![](https://8weeksqlchallenge.com/images/case-study-designs/1.png)
 *  [Case Study 2](https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_2_Pizza_Runner.ipynb)
 *  [Case Study 3](https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_3_Foodie_Fi.ipynb)
