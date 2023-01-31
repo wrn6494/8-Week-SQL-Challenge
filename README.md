@@ -45,7 +45,6 @@ A series of case studies from https://8weeksqlchallenge.com/ with my solutions. 
    
    <img src="https://8weeksqlchallenge.com/images/case-study-designs/7.png" width="300" height="300">
    <img align="middle">
-   
 *  [Case Study 8]
 
    <img src="https://8weeksqlchallenge.com/images/case-study-designs/8.png" width="300" height="300">
