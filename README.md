@@ -24,9 +24,8 @@ A series of case studies from https://8weeksqlchallenge.com/ with my solutions. 
 <!-- CONTACT -->
 ## Contact
 
-Your Name  - thalassawren@gmail.com
-
-Project Link: [https://github.com/wrn6494/-8-Week-SQL-Challenge](https://github.com/wrn6494/-8-Week-SQL-Challenge)
+Email - thalassawren@gmail.com
+LinkedIn  - https://www.linkedin.com/in/thalassa-wren-benzon/
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
