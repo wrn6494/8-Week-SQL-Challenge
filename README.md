@@ -32,7 +32,23 @@ A series of case studies from https://8weeksqlchallenge.com/ with my solutions. 
    <img align="middle">
    
 *  [Case Study 5](https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_5_Data_Mart.ipynb)
+   
    <img src="https://8weeksqlchallenge.com/images/case-study-designs/5.png" width="300" height="300">
+   <img align="middle">
+   
+*  [Case Study 6]
+   
+   <img src="https://8weeksqlchallenge.com/images/case-study-designs/6.png" width="300" height="300">
+   <img align="middle">
+   
+*  [Case Study 7]
+   
+   <img src="https://8weeksqlchallenge.com/images/case-study-designs/7.png" width="300" height="300">
+   <img align="middle">
+   
+*  [Case Study 8]
+
+   <img src="https://8weeksqlchallenge.com/images/case-study-designs/8.png" width="300" height="300">
    <img align="middle">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
