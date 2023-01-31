@@ -84,7 +84,9 @@ To get a local copy up and running follow these simple example steps.
 ## Content
 
 *  Case Study 1 [(https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_1_Danny's_Diner.ipynb)](https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_1_Danny's_Diner.ipynb)
-*  Case Study 2
+[Case Study 2]: https://8weeksqlchallenge.com/images/case-study-designs/2.png
+[Case Study 2-url]: https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_2_Pizza_Runner.ipynb
+
 *  Case Study 3
 *  Case Study 4
 *  Case Study 5
