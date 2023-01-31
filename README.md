@@ -15,10 +15,25 @@ A series of case studies from https://8weeksqlchallenge.com/ with my solutions. 
    
    <img src="https://8weeksqlchallenge.com/images/case-study-designs/1.png" width="300" height="300">
    <img align="middle">
+   
 *  [Case Study 2](https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_2_Pizza_Runner.ipynb)
+   
+   <img src="https://8weeksqlchallenge.com/images/case-study-designs/2.png" width="300" height="300">
+   <img align="middle">
+
 *  [Case Study 3](https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_3_Foodie_Fi.ipynb)
+   
+   <img src="https://8weeksqlchallenge.com/images/case-study-designs/3.png" width="300" height="300">
+   <img align="middle">
+   
 *  [Case Study 4](https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_4_Data_Bank.ipynb)
+ 
+   <img src="https://8weeksqlchallenge.com/images/case-study-designs/4.png" width="300" height="300">
+   <img align="middle">
+   
 *  [Case Study 5](https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_5_Data_Mart.ipynb)
+   <img src="https://8weeksqlchallenge.com/images/case-study-designs/5.png" width="300" height="300">
+   <img align="middle">
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
