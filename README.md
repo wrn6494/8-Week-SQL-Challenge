@@ -83,12 +83,11 @@ To get a local copy up and running follow these simple example steps.
 <!-- CONTENTS -->
 ## Content
 
-- [ ] Case Study 1 (https://github.com/github_username/repo_name/issues)
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+*  Case Study 1 [(https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_1_Danny's_Diner.ipynb)](https://github.com/wrn6494/-8-Week-SQL-Challenge/blob/main/Case_Study_1_Danny's_Diner.ipynb)
+*  Case Study 2
+*  Case Study 3
+*  Case Study 4
+*  Case Study 5
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -97,13 +96,9 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
+Your Name  - thalassawren@gmail.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
+Project Link: [https://github.com/wrn6494/-8-Week-SQL-Challenge](https://github.com/wrn6494/-8-Week-SQL-Challenge)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
